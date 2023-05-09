@@ -1,0 +1,9 @@
+sql_server=10.1.1.1 //ip address
+sql_database=DB_Name
+sql_username=DB_username
+sql_password=pass
+pg_host=10.1.1.2
+pg_database=DB2_Name
+pg_user=DB2_username
+pg_password=DB2_pass
+pg_port=5432 (if need for example)
